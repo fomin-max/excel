@@ -1,0 +1,19 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "Pure JS Excel App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fomin-max/excel.git"
+  },
+  "author": "Maxim Fomin <fominmax@inbox.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fomin-max/excel/issues"
+  },
+  "homepage": "https://github.com/fomin-max/excel#readme"
+}
